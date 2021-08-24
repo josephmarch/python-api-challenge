@@ -1,0 +1,10 @@
+Joseph March
+8/23/2021
+
+In part 1 of the python-api-challenge, WeatherPy, the following are observable trends based on the data.
+
+1) There is a moderate correlation between maximum temperature and latitude based on the r-value. As we move closer to the equator, temperature rises.
+
+2) Humidity and Cloudiness did not seem to share any correlation with latitude.
+
+3) Location being in the Northern vs Southern Hemisphere did not change the correlations in any meaningful way.
